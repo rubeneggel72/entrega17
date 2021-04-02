@@ -44,7 +44,7 @@ $(function () {
             usersList.html(html)
         })
     })
-        .add.apply.ññ -
+       
         nickName.keypress(e => {
             let keycode = (e.keyCode ? e.keyCode : e.which);
             if (keycode == '13') {
